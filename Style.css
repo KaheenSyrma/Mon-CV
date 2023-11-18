@@ -75,13 +75,12 @@ a:hover {
 .profile-picture {
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    margin-top: 20px; 
-    width: 100px; 
+    margin-top: 20px;
+    width: 100px;
     height: 100px;
     object-fit: cover;
-    align-items: center;
-    justify-content: center;
-    right: 50%;
+    margin: 0 auto;
+    display: block;
 }
 
 
